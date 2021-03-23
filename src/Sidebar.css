@@ -1,0 +1,111 @@
+.layout-color {
+    background-color:#6c6f7c;
+    padding: 10px;
+    }
+
+.padding-button {
+    
+    
+}  
+
+
+
+.ant-layout-header {
+    height: 64px;
+    padding: 0 0px;
+    color: rgba(0, 0, 0, 0.85);
+    line-height: 64px;
+    background: #fff;
+}
+    
+
+
+.trigger {
+    padding: 0 0px;
+    font-size: 18px;
+    line-height: 14px;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  .trigger:hover {
+    color: #1890ff;
+  }
+  
+  .logo {
+    height: 32px;
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.3);
+  }
+  
+  .site-layout .site-layout-background {
+    background: #fff;
+  }
+
+  element.style {
+    margin: 24px 16px;
+    min-height: 280px;
+}
+
+.ant-btn-primary1 {
+    color: #fff;
+    margin:2px;
+    min-width: 100px;
+    background: #1890ff;
+    border-color: #1890ff;
+    text-shadow: 0 -1px 0 rgb(0 0 0 / 12%);
+    -webkit-box-shadow: 0 2px 0 rgb(0 0 0 / 5%);
+    box-shadow: 0 2px 0 rgb(0 0 0 / 5%);
+}
+
+.ant-menu.ant-menu-dark, .ant-menu-dark .ant-menu-sub, .ant-menu.ant-menu-dark .ant-menu-sub , .ant-layout-sider , .ant-layout  {
+    color: rgba(255, 255, 255, 0.65);
+    background: #161E43;
+}
+
+.site-layout .site-layout-background {
+    background: #1a234f;
+}
+
+.ant-layout-header {
+    height: 64px;
+    padding: 0 0px;
+    color: rgba(0, 0, 0, 0.85);
+    line-height: 64px;
+    background: #1a234f;
+}
+
+.ant-input {
+
+    background-color:#161E43;
+}
+
+.ant-btn-primary {
+
+    background-color:#161E43 ;
+    border-color:#fff;
+} 
+
+.ant-btn-primary1 {
+    background-color:#1a234f ;
+    border-color: #1a234f;
+    box-shadow: 2px 2px 2px 2px rgb(0 0 0 / 10%);
+    color: #40a9ff
+
+}
+
+.ant-input1 {
+
+    background-color:#161E43;
+    color: #1890ff;
+}
+
+.ant-btn-primary2 {
+    margin-right: 0px;
+    background-color:#1a234f ;
+    border-color: #1a234f;
+    box-shadow: 2px 2px 2px 2px rgb(0 0 0 / 10%);
+    color: #40a9ff
+
+}
+
